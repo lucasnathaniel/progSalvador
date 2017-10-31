@@ -1,0 +1,606 @@
+root@P4V1:~/Desktop/CTFs/HACKAFLAG/SALVADOR/PROG# python3 prog.py 
+connectou!
+
+                   +++    HACKAFLAG - Jogo da Soma   +++
+
+ [+] ZAAL X é um computador criado para jogar um jogo muito interessante
+    chamado Jogo da Soma.
+
+ [+] Nesse jogo, cada um escolhe, sem repetir, um número de 1 a 9, de
+    maneira alternada, e ganha o jogo aquele que primeiro escolher uma
+    combinação de 3 dígitos que some o valor de quinze.
+
+ [+] Segue um exemplo onde o computador começa jogando.
+
+    Computador: 5   8   4   6    -> Computador ganha com: [4, 5, 6]
+    Jogador   :  9   2   3   -
+
+ [+] Seu objetivo é derrotar ZAAL X, que sempre começa jogando, em até 20
+    jogadas.
+
+ [+] Caso você sobreviva as 20 rodadas sem perder, será dada uma
+    oportunidade de você começar jogando.
+ 
+ [+] Para começar, digite start: 
+     Iniciando...
+
+Desafio numero  1
+
+ [+] ZAAL X escolheu: 6
+
+
+     Sua vez: 
+ [+] hacker escolheu: 5
+
+ [+] ZAAL X escolheu: 2
+
+     Sua vez: 
+ [+] hacker escolheu: 7
+
+ [+] ZAAL X escolheu: 3
+
+     Sua vez: 
+ [+] hacker escolheu: 1
+
+ [+] ZAAL X escolheu: 9
+
+     Sua vez: 
+ [+] hacker escolheu: 4
+
+ [+] ZAAL X escolheu: 8
+
+
+ [-] Empatou...
+
+Desafio numero  2
+
+ [+] ZAAL X escolheu: 6
+
+
+     Sua vez: 
+ [+] hacker escolheu: 5
+
+ [+] ZAAL X escolheu: 2
+
+     Sua vez: 
+ [+] hacker escolheu: 7
+
+ [+] ZAAL X escolheu: 3
+
+     Sua vez: 
+ [+] hacker escolheu: 1
+
+ [+] ZAAL X escolheu: 9
+
+     Sua vez: 
+ [+] hacker escolheu: 4
+
+ [+] ZAAL X escolheu: 8
+
+
+ [-] Empatou...
+
+Desafio numero  3
+
+ [+] ZAAL X escolheu: 5
+
+
+     Sua vez: 
+ [+] hacker escolheu: 6
+
+ [+] ZAAL X escolheu: 8
+
+     Sua vez: 
+ [+] hacker escolheu: 2
+
+ [+] ZAAL X escolheu: 7
+
+     Sua vez: 
+ [+] hacker escolheu: 3
+
+ [+] ZAAL X escolheu: 1
+
+     Sua vez: 
+ [+] hacker escolheu: 9
+
+ [+] ZAAL X escolheu: 4
+
+
+ [-] Empatou...
+
+Desafio numero  4
+
+ [+] ZAAL X escolheu: 8
+
+
+     Sua vez: 
+ [+] hacker escolheu: 5
+
+ [+] ZAAL X escolheu: 4
+
+     Sua vez: 
+ [+] hacker escolheu: 3
+
+ [+] ZAAL X escolheu: 7
+
+     Sua vez: 
+ [+] hacker escolheu: 1
+
+ [+] ZAAL X escolheu: 9
+
+     Sua vez: 
+ [+] hacker escolheu: 2
+
+ [+] ZAAL X escolheu: 6
+
+
+ [-] Empatou...
+
+Desafio numero  5
+
+ [+] ZAAL X escolheu: 2
+
+
+     Sua vez: 
+ [+] hacker escolheu: 5
+
+ [+] ZAAL X escolheu: 6
+
+     Sua vez: 
+ [+] hacker escolheu: 7
+
+ [+] ZAAL X escolheu: 3
+
+     Sua vez: 
+ [+] hacker escolheu: 1
+
+ [+] ZAAL X escolheu: 9
+
+     Sua vez: 
+ [+] hacker escolheu: 4
+
+ [+] ZAAL X escolheu: 8
+
+
+ [-] Empatou...
+
+Desafio numero  6
+
+ [+] ZAAL X escolheu: 8
+
+
+     Sua vez: 
+ [+] hacker escolheu: 5
+
+ [+] ZAAL X escolheu: 4
+
+     Sua vez: 
+ [+] hacker escolheu: 3
+
+ [+] ZAAL X escolheu: 7
+
+     Sua vez: 
+ [+] hacker escolheu: 1
+
+ [+] ZAAL X escolheu: 9
+
+     Sua vez: 
+ [+] hacker escolheu: 2
+
+ [+] ZAAL X escolheu: 6
+
+
+ [-] Empatou...
+
+Desafio numero  7
+
+ [+] ZAAL X escolheu: 5
+
+
+     Sua vez: 
+ [+] hacker escolheu: 6
+
+ [+] ZAAL X escolheu: 8
+
+     Sua vez: 
+ [+] hacker escolheu: 2
+
+ [+] ZAAL X escolheu: 7
+
+     Sua vez: 
+ [+] hacker escolheu: 3
+
+ [+] ZAAL X escolheu: 1
+
+     Sua vez: 
+ [+] hacker escolheu: 9
+
+ [+] ZAAL X escolheu: 4
+
+
+ [-] Empatou...
+
+Desafio numero  8
+
+ [+] ZAAL X escolheu: 2
+
+
+     Sua vez: 
+ [+] hacker escolheu: 5
+
+ [+] ZAAL X escolheu: 6
+
+     Sua vez: 
+ [+] hacker escolheu: 7
+
+ [+] ZAAL X escolheu: 3
+
+     Sua vez: 
+ [+] hacker escolheu: 1
+
+ [+] ZAAL X escolheu: 9
+
+     Sua vez: 
+ [+] hacker escolheu: 4
+
+ [+] ZAAL X escolheu: 8
+
+
+ [-] Empatou...
+
+Desafio numero  9
+
+ [+] ZAAL X escolheu: 5
+
+
+     Sua vez: 
+ [+] hacker escolheu: 6
+
+ [+] ZAAL X escolheu: 8
+
+     Sua vez: 
+ [+] hacker escolheu: 2
+
+ [+] ZAAL X escolheu: 7
+
+     Sua vez: 
+ [+] hacker escolheu: 3
+
+ [+] ZAAL X escolheu: 1
+
+     Sua vez: 
+ [+] hacker escolheu: 9
+
+ [+] ZAAL X escolheu: 4
+
+
+ [-] Empatou...
+
+Desafio numero  10
+
+ [+] ZAAL X escolheu: 5
+
+
+     Sua vez: 
+ [+] hacker escolheu: 6
+
+ [+] ZAAL X escolheu: 8
+
+     Sua vez: 
+ [+] hacker escolheu: 2
+
+ [+] ZAAL X escolheu: 7
+
+     Sua vez: 
+ [+] hacker escolheu: 3
+
+ [+] ZAAL X escolheu: 1
+
+     Sua vez: 
+ [+] hacker escolheu: 9
+
+ [+] ZAAL X escolheu: 4
+
+
+ [-] Empatou...
+
+Desafio numero  11
+
+ [+] ZAAL X escolheu: 5
+
+
+     Sua vez: 
+ [+] hacker escolheu: 6
+
+ [+] ZAAL X escolheu: 8
+
+     Sua vez: 
+ [+] hacker escolheu: 2
+
+ [+] ZAAL X escolheu: 7
+
+     Sua vez: 
+ [+] hacker escolheu: 3
+
+ [+] ZAAL X escolheu: 1
+
+     Sua vez: 
+ [+] hacker escolheu: 9
+
+ [+] ZAAL X escolheu: 4
+
+
+ [-] Empatou...
+
+Desafio numero  12
+
+ [+] ZAAL X escolheu: 8
+
+
+     Sua vez: 
+ [+] hacker escolheu: 5
+
+ [+] ZAAL X escolheu: 4
+
+     Sua vez: 
+ [+] hacker escolheu: 3
+
+ [+] ZAAL X escolheu: 7
+
+     Sua vez: 
+ [+] hacker escolheu: 1
+
+ [+] ZAAL X escolheu: 9
+
+     Sua vez: 
+ [+] hacker escolheu: 2
+
+ [+] ZAAL X escolheu: 6
+
+
+ [-] Empatou...
+
+Desafio numero  13
+
+ [+] ZAAL X escolheu: 5
+
+
+     Sua vez: 
+ [+] hacker escolheu: 6
+
+ [+] ZAAL X escolheu: 8
+
+     Sua vez: 
+ [+] hacker escolheu: 2
+
+ [+] ZAAL X escolheu: 7
+
+     Sua vez: 
+ [+] hacker escolheu: 3
+
+ [+] ZAAL X escolheu: 1
+
+     Sua vez: 
+ [+] hacker escolheu: 9
+
+ [+] ZAAL X escolheu: 4
+
+
+ [-] Empatou...
+
+Desafio numero  14
+
+ [+] ZAAL X escolheu: 8
+
+
+     Sua vez: 
+ [+] hacker escolheu: 5
+
+ [+] ZAAL X escolheu: 4
+
+     Sua vez: 
+ [+] hacker escolheu: 3
+
+ [+] ZAAL X escolheu: 7
+
+     Sua vez: 
+ [+] hacker escolheu: 1
+
+ [+] ZAAL X escolheu: 9
+
+     Sua vez: 
+ [+] hacker escolheu: 2
+
+ [+] ZAAL X escolheu: 6
+
+
+ [-] Empatou...
+
+Desafio numero  15
+
+ [+] ZAAL X escolheu: 5
+
+
+     Sua vez: 
+ [+] hacker escolheu: 6
+
+ [+] ZAAL X escolheu: 8
+
+     Sua vez: 
+ [+] hacker escolheu: 2
+
+ [+] ZAAL X escolheu: 7
+
+     Sua vez: 
+ [+] hacker escolheu: 3
+
+ [+] ZAAL X escolheu: 1
+
+     Sua vez: 
+ [+] hacker escolheu: 9
+
+ [+] ZAAL X escolheu: 4
+
+
+ [-] Empatou...
+
+Desafio numero  16
+
+ [+] ZAAL X escolheu: 2
+
+
+     Sua vez: 
+ [+] hacker escolheu: 5
+
+ [+] ZAAL X escolheu: 6
+
+     Sua vez: 
+ [+] hacker escolheu: 7
+
+ [+] ZAAL X escolheu: 3
+
+     Sua vez: 
+ [+] hacker escolheu: 1
+
+ [+] ZAAL X escolheu: 9
+
+     Sua vez: 
+ [+] hacker escolheu: 4
+
+ [+] ZAAL X escolheu: 8
+
+
+ [-] Empatou...
+
+Desafio numero  17
+
+ [+] ZAAL X escolheu: 2
+
+
+     Sua vez: 
+ [+] hacker escolheu: 5
+
+ [+] ZAAL X escolheu: 6
+
+     Sua vez: 
+ [+] hacker escolheu: 7
+
+ [+] ZAAL X escolheu: 3
+
+     Sua vez: 
+ [+] hacker escolheu: 1
+
+ [+] ZAAL X escolheu: 9
+
+     Sua vez: 
+ [+] hacker escolheu: 4
+
+ [+] ZAAL X escolheu: 8
+
+
+ [-] Empatou...
+
+Desafio numero  18
+
+ [+] ZAAL X escolheu: 6
+
+
+     Sua vez: 
+ [+] hacker escolheu: 5
+
+ [+] ZAAL X escolheu: 2
+
+     Sua vez: 
+ [+] hacker escolheu: 7
+
+ [+] ZAAL X escolheu: 3
+
+     Sua vez: 
+ [+] hacker escolheu: 1
+
+ [+] ZAAL X escolheu: 9
+
+     Sua vez: 
+ [+] hacker escolheu: 4
+
+ [+] ZAAL X escolheu: 8
+
+
+ [-] Empatou...
+
+Desafio numero  19
+
+ [+] ZAAL X escolheu: 6
+
+
+     Sua vez: 
+ [+] hacker escolheu: 5
+
+ [+] ZAAL X escolheu: 2
+
+     Sua vez: 
+ [+] hacker escolheu: 7
+
+ [+] ZAAL X escolheu: 3
+
+     Sua vez: 
+ [+] hacker escolheu: 1
+
+ [+] ZAAL X escolheu: 9
+
+     Sua vez: 
+ [+] hacker escolheu: 4
+
+ [+] ZAAL X escolheu: 8
+
+
+ [-] Empatou...
+
+Desafio numero  20
+
+ [+] ZAAL X escolheu: 2
+
+
+     Sua vez: 
+ [+] hacker escolheu: 5
+
+ [+] ZAAL X escolheu: 6
+
+     Sua vez: 
+ [+] hacker escolheu: 7
+
+ [+] ZAAL X escolheu: 3
+
+     Sua vez: 
+ [+] hacker escolheu: 1
+
+ [+] ZAAL X escolheu: 9
+
+     Sua vez: 
+ [+] hacker escolheu: 4
+
+ [+] ZAAL X escolheu: 8
+
+
+ [-] Empatou...
+
+     Sua vez: 
+ [+] hacker escolheu: 6
+
+ [+] ZAAL X escolheu: 5
+
+     Sua vez: 
+ [+] hacker escolheu: 4
+
+ [+] ZAAL X escolheu: 8
+
+     Sua vez: 
+ [+] hacker escolheu: 2
+
+ [+] ZAAL X escolheu: 7
+
+     Sua vez: 
+ [+] hacker escolheu: 9
+
+ [+] Parabéns, a flag é:
+ HACKAFLAG{m4g1c_Squ4re_ch4ll3ng3}
